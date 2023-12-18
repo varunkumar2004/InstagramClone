@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:layout_width="wrap_content"
+        android:id="@+id/like"
+        android:layout_height="wrap_content"
+        android:title="Like"
+        app:showAsAction="always"
+        android:icon="@drawable/vector_like_border"/>
+    <item
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Message"
+        app:showAsAction="always"
+        android:icon="@drawable/vector_message"/>
+</menu>
