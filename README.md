@@ -1,0 +1,1 @@
+This is a Instagram Clone app using Firebase Authentication, Storage, Realtime database and Firestore database. This app contains built in features like Reels, Home and Followed Accounts Sections just like original Instagram App.
